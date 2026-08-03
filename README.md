@@ -18,15 +18,11 @@ This repository may include:
 - Web Development
 - AI & Machine Learning
 - Blockchain
-- Electronics & ESP32
-- Arduino
+- ESP32/Arduino projects
 - Databases
 - Blender
-- Game Development
-- Notes
 - Guides
 - Walkthroughs
-- Documentation
 - Projects
 - And anything else I find worth sharing.
 
